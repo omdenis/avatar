@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avatar.Client.Console", "Avatar.Client.Console\Avatar.Client.Console.csproj", "{3394BFC5-88A4-4096-8E02-BAD4D472EEEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avatar.Server", "Avatar.Server\Avatar.Server.csproj", "{219F3566-6F25-4A3E-A513-1090FEEA5C5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{3394BFC5-88A4-4096-8E02-BAD4D472EEEC}.Release|x64.Build.0 = Release|Any CPU
 		{3394BFC5-88A4-4096-8E02-BAD4D472EEEC}.Release|x86.ActiveCfg = Release|Any CPU
 		{3394BFC5-88A4-4096-8E02-BAD4D472EEEC}.Release|x86.Build.0 = Release|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Debug|x64.Build.0 = Debug|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Debug|x86.Build.0 = Debug|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Release|x64.ActiveCfg = Release|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Release|x64.Build.0 = Release|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Release|x86.ActiveCfg = Release|Any CPU
+		{219F3566-6F25-4A3E-A513-1090FEEA5C5C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
